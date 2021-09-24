@@ -17,8 +17,6 @@ The download page renders a different text on the button depending on the kind o
 
 You are free to fork this project for your personal use.
 
-## View Demo
-This app is currently live [here](https://kingsleyubah.github.io/hacker-news-clone/)
 
 ## Available Scripts
 
